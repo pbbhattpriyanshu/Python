@@ -1,7 +1,4 @@
 # Python
-A Code Repo for Python.
-<br>
-<br>
 What is Python?
 <br>
 <br>
