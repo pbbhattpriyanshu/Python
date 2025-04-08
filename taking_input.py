@@ -15,7 +15,7 @@
 # print("My CGPA is ",cgpa)
 
 # Project - ID Card
-# Create a simple ID card program that takes user input for various fields and displays the information in a formatted manner.
+# Create a simple ID card program=u74that takes user input for various fields and displays the information in a formatted manner.
 
 student_id = [
 	input("Whats your Name : "),
