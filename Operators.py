@@ -1,3 +1,4 @@
+# Lecture 3
 # What is Operators?
 # Operators are special symbols that perform operations on variables and values.
 

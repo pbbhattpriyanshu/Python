@@ -1,4 +1,4 @@
-# Datatypes & Keywords
+# Lecture 2 - Datatypes & Keywords
 
 # A data type is a classification that specifies which type of value a variable can hold. In Python, there are several built-in data types that can be used to store different types of values. The most commonly used data types in Python are:
 

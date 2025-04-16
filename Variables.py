@@ -1,4 +1,5 @@
-# Variables
+# Lecture 1 - Variables
+
 # A variable is a name given to a memory location in a program. It is used to store data that can be changed during the execution of the program. Variables are used to hold values that can be referenced and manipulated in a program. In Python, variables are created when a value is assigned to them using the assignment operator `=`.
 
 name = "Piyush bhatt"

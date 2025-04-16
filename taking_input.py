@@ -1,4 +1,4 @@
-# Input 
+# Lecture 4 - Input 
 
 # String input 
 # name = input("name : ")
