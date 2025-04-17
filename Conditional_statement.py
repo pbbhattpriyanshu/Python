@@ -1,4 +1,4 @@
-# Lecture 5 - Conditional Statement
+# Lecture 7 - Conditional Statement
 # Conditional statements are used to perform different actions based on different conditions.
 # In Python, the most common conditional statements are `if`, `elif`, and `else`. These statements allow you to execute different blocks of code based on the evaluation of a condition.
 

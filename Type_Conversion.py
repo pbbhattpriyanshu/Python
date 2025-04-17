@@ -1,4 +1,6 @@
-# Lecture - 6  Type conversion and type casting
+# Lecture - 5  Type conversion and type casting
+
+# The process of converting the value of one data type (integer, string, float, etc.) to another data type is called type conversion. Python has two types of type conversion: Implicit and Explicit.
 
 # Type Conversion - automatic conversion which done by compiler. if its possible to convert then only. like - int(2) convert into float(2.0).
 
