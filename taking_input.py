@@ -1,5 +1,7 @@
 # Lecture 4 - Input 
 
+# Always raw input is taken in the form of string, if you define data types by taking input, at that time only values store according to their datatypes .
+
 # String input 
 # name = input("name : ")
 # print("My name is ",name)
