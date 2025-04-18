@@ -94,13 +94,13 @@
 # SI = Simple Interest
 # SI = (P * R * T) / 100
 
-P = float(input("Enter the principal amount: "))
-R = float(input("Enter the rate of interest: "))
-T = float(input("Enter the time in years: "))
+# P = float(input("Enter the principal amount: "))
+# R = float(input("Enter the rate of interest: "))
+# T = float(input("Enter the time in years: "))
 
-SI = (P * R * T) / 100
+# SI = (P * R * T) / 100
 
-print("The simple interest is: ", SI)
+# print("The simple interest is: ", SI)
 
 # In the above code, the program takes input from the user for principal amount, rate of interest, and time in years and calculates the simple interest using the formula. The program prints the simple interest based on the values entered by the user.
 
@@ -112,3 +112,33 @@ print("The simple interest is: ", SI)
 This is a Multi line comment
 lorem ipsum dolor sit amet, consectetur adipiscing elit.
 """
+
+# Practice question
+
+# WAP to check if a number entered by the user is odd or even
+
+# User Input
+# num = int(input("Enter the number: "))
+
+# # check the number is even or odd
+# if num % 2 == 0:
+#     print("The number is even")
+# else:
+#     print("Number is odd")
+
+# WAP to find greatest of 3 numbers entered by user.
+
+# Input by user
+a = float(input("Enter the first number : "))
+b = float(input("Enter the second number : "))
+c = float(input("Enter the third number : "))
+
+# Check the greatest number among
+if a > b and a > c:
+    greatest = a
+elif b > a and b > c:
+   greatest = b
+else:
+    greatest = c
+
+print(f"The Greatest Number is {greatest}")
