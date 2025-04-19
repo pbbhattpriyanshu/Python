@@ -129,16 +129,54 @@ lorem ipsum dolor sit amet, consectetur adipiscing elit.
 # WAP to find greatest of 3 numbers entered by user.
 
 # Input by user
-a = float(input("Enter the first number : "))
-b = float(input("Enter the second number : "))
-c = float(input("Enter the third number : "))
+# a = float(input("Enter the first number : "))
+# b = float(input("Enter the second number : "))
+# c = float(input("Enter the third number : "))
 
-# Check the greatest number among
-if a > b and a > c:
-    greatest = a
-elif b > a and b > c:
-   greatest = b
-else:
-    greatest = c
+# # Check the greatest number among
+# if a > b and a > c:
+#     greatest = a
+# elif b > a and b > c:
+#    greatest = b
+# else:
+#     greatest = c
 
-print(f"The Greatest Number is {greatest}")
+# print(f"The Greatest Number is {greatest}")
+
+# WAP to check number is the multiple of 7
+
+# User input and store
+# num = int(input("Please enter the number : "))
+
+#  Check the number is the multiple of 7
+
+# if num % 7 == 0:
+#     print("The Number is the multiple of 7")
+# else:
+#     print("The Number is not the multiple of 7")
+
+# Write a program to check if a year is a leap year.
+
+# Input by user 
+# year = int(input("Please Enter the Year : "))
+
+# Check the leap year or not
+# if year % 4 == 0:
+#     print(year, "is the leap year.")
+# else:
+#     print(year,"is not the leap year.")
+
+# Ask the user to enter a password. If it matches a preset password (like "admin123"), print "Access Granted", else "Access Denied".
+
+# Save PIN
+# pin = 0000
+
+# User Input
+# password = int(input("Enter the Four digit PIN Dr.Kajal Bhatt : "))
+
+# #  matches a preset password
+# if pin == password:
+#     print("Access Granted")
+# else:
+#     print("Access Denied")
+
